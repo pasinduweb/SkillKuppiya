@@ -104,7 +104,7 @@
     ?>  
 
      <!-- Start Students Testimonial -->
-      <div class="container-fluid mt-5" style="background-color: #4B7289" id="Feedback">
+      <div class="container-fluid mt-5" style="background-color: #1e272e" id="Feedback">
         <h1 class="text-center testyheading p-4"> Students' Feedback </h1>
         <div class="row">
           <div class="col-md-12">
@@ -141,19 +141,22 @@
         <div class="row text-center">
           <div class="col-sm">
             <h5>About Us</h5>
-              <p>SkillKuppiya provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.</p>
+              <p>"SkillKuppiya" is a place to teach students new technical concepts, technologies, and other topics. Competing with the new world requires new knowledge. Led by young people</p>
           </div>
           <div class="col-sm">
             <h5>Categories</h5>
             <a class="text-dark" href="#">Web Development</a><br />
             <a class="text-dark" href="#">Web Designing</a><br />
-            <a class="text-dark" href="#">Android App Dev</a><br />
-            <a class="text-dark" href="#">iOS Development</a><br />
+            <a class="text-dark" href="#">Blockchain</a><br />
+            <a class="text-dark" href="#">Web3.0</a><br />
             <a class="text-dark" href="#">Data Analysis</a><br />
           </div>
           <div class="col-sm">
             <h5>Contact Us</h5>
-            <p>SkillKuppiya Pvt Ltd <br> Near Police Camp II <br> Bokaro, Jharkhand <br> Ph. 000000000 </p>
+            <p>SkillKuppiya
+            E-mail: <a href="mailto:skillkuppiya@gmail.com">skillkuppiya@gmail.com</a>
+            Phone: <a href="tel:+94762319687">+9476-2319687</a>
+            </p>
           </div>
         </div>
       </div>

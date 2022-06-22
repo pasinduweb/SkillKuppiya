@@ -1,6 +1,6 @@
  <!-- Start Footer -->
  <footer class="container-fluid bg-dark text-center p-2">
-    <small class="text-white">Copyright &copy; 2019 || Designed By SkillKuppiya|| <?php   
+    <small class="text-white">&copy; SkillKuppiya 2022  Designed By DCSD20.2 -  <?php   
           if (isset($_SESSION['is_admin_login'])){
             echo '<a href="admin/adminDashboard.php"> Admin Dashboard</a> <a href="logout.php">Logout</a>';
           }else {
